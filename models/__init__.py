@@ -1,1 +1,1 @@
-from models.East import EAST
+from models.east import EAST

@@ -1,6 +1,0 @@
-fire
-numpy
-torchvision
-visdom
-shapely
-git+https://github.com/pytorch/tnt.git@master

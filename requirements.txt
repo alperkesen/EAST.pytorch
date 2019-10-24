@@ -1,0 +1,7 @@
+fire
+numpy
+torchvision
+visdom
+shapely
+opencv-python==4.1.1.26
+git+https://github.com/pytorch/tnt.git@master
